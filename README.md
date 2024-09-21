@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @byteoflife AKA AJ.
+- 👀 I’m currently interested in learning webdev.
+- 🌱 I’m currently learning js, html, css.
+- 💞️ I’m looking to collaborate on interesting projects.
+- 📫 How to reach me: PM
